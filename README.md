@@ -5,9 +5,9 @@ This is my take on uploading multiple files to AWS with fastAPI and mongoDB(bean
 ## Poetry
 Create the virtual environment and install dependencies with:
 
-> run poetry install
+> poetry install
 
-See https://python-poetry.org/docs/ the poetry docs for more information
+See [poetry](https://python-poetry.org/docs/) docs for more information
 
 ### How to run? 
 > poetry run uvicorn app:app --reload --host localhost --port 8000
