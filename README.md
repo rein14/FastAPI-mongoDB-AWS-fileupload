@@ -1,5 +1,3 @@
-Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code.
-
 # fastAPI-mongoDB-AWS-fileupload
 
 This is my take on uploading multiple files to AWS with fastAPI and mongoDB(beanie)
