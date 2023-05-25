@@ -2,8 +2,7 @@
 
 This is my take on uploading multiple files to AWS with fastAPI and mongoDB(beanie)
 
-<<<<<<< HEAD
-## How to run?
+ ## How to run?
 
 ### Poetry
 Create a virtual environment and install dependencies with:
@@ -13,7 +12,6 @@ See the poetry docs for more information
 
 Run commands inside the virtual environment with:
 
-
 ## How to run? 
 > python main.py
 
@@ -21,7 +19,6 @@ Swagger UI docs at localhost:8000/docs
 ReDoc docs at localhost:8000/redoc
 To run testing/linting locally you would run lint/test in the scripts directory.
 
-=======
 ## Poetry
 Create the virtual environment and install dependencies with:
 
@@ -41,4 +38,3 @@ API will be available at localhost:8000/
 * uvicorn[standard]
 * beanie
 * boto3
->>>>>>> 81f1f8b7405f6162a54d54f9e40b06a2765bc5cc
