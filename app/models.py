@@ -5,6 +5,7 @@ from beanie import Document
 from bson import ObjectId
 from pydantic import BaseModel, root_validator
 
+
 class Product(Document):
     name: str
     product_images: str

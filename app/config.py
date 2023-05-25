@@ -1,7 +1,7 @@
 from typing import Optional
 
 from beanie import init_beanie
-from models import Product
+from .models import Product
 from motor.motor_asyncio import AsyncIOMotorClient
 from pydantic import BaseSettings
 

@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from models import Product
+from .models import Product
 
 
 async def add_product(

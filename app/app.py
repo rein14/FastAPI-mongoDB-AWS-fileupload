@@ -1,7 +1,7 @@
 import uvicorn
-from config import initiate_database
+from .config import initiate_database
 from fastapi import FastAPI
-from routes import router as ProductRoute
+from .routes import router as ProductRoute
 
 app = FastAPI()
 

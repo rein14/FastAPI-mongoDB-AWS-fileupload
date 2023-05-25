@@ -2,9 +2,9 @@ from datetime import datetime
 from typing import List, Optional
 
 from fastapi import APIRouter, Body, File, Request, UploadFile
-from models import Product, Response
-from upload import fileUrl, handle_file_upload
-from database import add_product
+from .models import Product, Response
+from .upload import fileUrl, handle_file_upload
+from .database import add_product
 
 router = APIRouter()
 
