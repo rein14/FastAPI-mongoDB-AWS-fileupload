@@ -1,6 +1,6 @@
 # fastAPI-mongoDB-AWS-fileupload
 
-This is my take on uploading multiple files to AWS with fastAPI and mongoDB(beanie)
+This is my take on how to uploade multiple files to AWS with fastAPI and mongoDB(beanie)
 
 ## Poetry
 Create the virtual environment and install dependencies with:
